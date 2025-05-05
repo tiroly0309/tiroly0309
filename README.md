@@ -18,7 +18,17 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,nodejs,react,next,flutter,figma,python,docker,gcp,firebase" />
+### Laungage
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,bootstrap,ts,nodejs,react,vue,next,go,flutter,python,flask,django,arduino" />
+
+### Tool
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=vscode,git,github,docker,kubernetes,nginx,vite,gcp,firebase,cloudflare,raspberrypi,figma" />
+
+### OS
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=windows,apple,linux,ubuntu" />
+
+### DB
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=postgres,mongo,sqlite,firebase" />
 <br>
 
 
